@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+     <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="Theme.AppCompat.DayNight.DarkActionBar" />
+
+</resources>
