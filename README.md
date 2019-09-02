@@ -2,7 +2,6 @@
 
 ![photo5141193604591626278](https://user-images.githubusercontent.com/23446483/64087804-38526d00-cd04-11e9-96ab-1c04bc94774e.jpg)
 ![photo5141193604591626279](https://user-images.githubusercontent.com/23446483/64087805-38526d00-cd04-11e9-8890-9f330ca0faa1.jpg)
-![photo5141193604591626280](https://user-images.githubusercontent.com/23446483/64087808-3a1c3080-cd04-11e9-9b90-83e0840d9495.jpg)
 
 ### Requirements
 
